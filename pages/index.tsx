@@ -243,8 +243,8 @@ const Home: NextPage = () => {
                   Rapture Raptor
                 </h3>
                 <p className=" md:text-2xl  text-xl font-semibold text-grey-400 text-white font-[Montserrat]   ">
-                  Judgment day is upon us join us as the brave a willing ascend
-                  to heaven and the jeets descend to the depths of hell
+                  Judgment day is upon us join us as the brave and willing
+                  ascend to heaven and the jeets descend to the depths of hell
                 </p>
 
                 <div className="flex  md:flex-row  items-center justify-start  gap-2 md:mb-0 my-3 md:my-0 md:mt-6">
